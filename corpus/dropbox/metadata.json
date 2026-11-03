@@ -1,0 +1,14 @@
+{
+  "time": "2026-11-02T23:58:43.731900-06:00",
+  "url": "https://www.dropbox.com/es/terms",
+  "file": "producto/corpus/dropbox/original-es.html",
+  "method": "Python urllib GET; no script execution",
+  "status": 200,
+  "final_url": "https://www.dropbox.com/es/terms",
+  "content_type": "text/html; charset=utf-8",
+  "sha256": "9b50bac0a03f39e638dda2f0b3652b56692d02d39280d772823f5e4d31910446",
+  "language": "Spanish",
+  "scope": "Global Spanish terms; Mexican applicability requires contextual review",
+  "rights": "Third-party terms; public accessibility is not a redistribution license. Originals retained locally, excluded from Git. No logos downloaded.",
+  "freshness": "Current official endpoint at retrieval; not independent legal certification of applicability or effective version."
+}

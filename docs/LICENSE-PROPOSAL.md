@@ -1,3 +1,3 @@
-# License proposal
+# License decision
 
-MIT is proposed for original code, subject to Jonás confirmation. No LICENSE has been installed and no license has been granted by this document. Third-party contracts and quotations retain their own rights; publicly readable does not mean public domain. Public redistribution scope must be reviewed before push.
+Jonás confirmed MIT for original code on 2026-11-03. See ../LICENSE. This grant excludes third-party contract originals and quoted text, which retain their original rights. No blanket public-domain assumption is made. Public corpus redistribution is not authorized by the code license.

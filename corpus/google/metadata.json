@@ -1,0 +1,14 @@
+{
+  "time": "2026-11-02T23:56:20.196661-06:00",
+  "url": "https://policies.google.com/terms?hl=es-419",
+  "file": "producto/corpus/google/original.html",
+  "method": "Python urllib GET; no script execution",
+  "status": 200,
+  "final_url": "https://policies.google.com/terms?hl=es-419",
+  "content_type": "text/html; charset=utf-8",
+  "sha256": "a1c37c7f61612a32751f3a698efab1e92d6e984962bb7d309fe09694ef3e4499",
+  "language": "Spanish",
+  "scope": "Global Spanish terms; Mexican applicability requires contextual review",
+  "rights": "Third-party terms; public accessibility is not a redistribution license. Originals retained locally, excluded from Git. No logos downloaded.",
+  "freshness": "Current official endpoint at retrieval; not independent legal certification of applicability or effective version."
+}

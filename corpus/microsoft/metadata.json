@@ -1,0 +1,14 @@
+{
+  "time": "2026-11-02T23:56:03.521844-06:00",
+  "url": "https://www.microsoft.com/es-mx/servicesagreement",
+  "file": "producto/corpus/microsoft/original.html",
+  "method": "Python urllib GET; no script execution",
+  "status": 200,
+  "final_url": "https://www.microsoft.com/es-mx/servicesagreement",
+  "content_type": "text/html; charset=utf-8",
+  "sha256": "734a6eb4853e953bbbc9e5066008e40f9687016c3ff7fed37d57eabc0474f2b9",
+  "language": "Spanish",
+  "scope": "Mexico locale",
+  "rights": "Third-party terms; public accessibility is not a redistribution license. Originals retained locally, excluded from Git. No logos downloaded.",
+  "freshness": "Current official endpoint at retrieval; not independent legal certification of applicability or effective version."
+}

@@ -1,0 +1,14 @@
+{
+  "time": "2026-11-02T23:55:27.575457-06:00",
+  "url": "https://www.spotify.com/mx/legal/end-user-agreement/",
+  "file": "producto/corpus/spotify/original.html",
+  "method": "Python urllib GET; no script execution",
+  "status": 200,
+  "final_url": "https://www.spotify.com/mx/legal/end-user-agreement/",
+  "content_type": "text/html; charset=utf-8",
+  "sha256": "bdae8cdea23cb84cff58aa06b7b3c29f8d02a6572c7aa3687fe281bf79d23462",
+  "language": "Spanish",
+  "scope": "Mexico locale",
+  "rights": "Third-party terms; public accessibility is not a redistribution license. Originals retained locally, excluded from Git. No logos downloaded.",
+  "freshness": "Current official endpoint at retrieval; not independent legal certification of applicability or effective version."
+}

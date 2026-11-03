@@ -1,0 +1,14 @@
+{
+  "time": "2026-11-02T23:55:27.574460-06:00",
+  "url": "https://legal.rappi.com/mexico/terminos-y-condiciones-de-uso-de-plataforma-rappi-3/",
+  "file": "producto/corpus/rappi/original.html",
+  "method": "Python urllib GET; no script execution",
+  "status": 200,
+  "final_url": "https://legal.rappi.com/mexico/terminos-y-condiciones-de-uso-de-plataforma-rappi-3/",
+  "content_type": "text/html; charset=UTF-8",
+  "sha256": "97488c4cba83c5e39af89bf93bbd72b45f44a708c83bd2354e7878063dcff03f",
+  "language": "Spanish",
+  "scope": "Mexico locale",
+  "rights": "Third-party terms; public accessibility is not a redistribution license. Originals retained locally, excluded from Git. No logos downloaded.",
+  "freshness": "Current official endpoint at retrieval; not independent legal certification of applicability or effective version."
+}
