@@ -1,0 +1,9 @@
+# Keep .kiro versioned. Local evidence and secrets are not public assets.
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+corpus/**/original*.html
+corpus/**/original*.pdf
+corpus/**/text*.txt
